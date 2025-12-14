@@ -17,8 +17,11 @@ This project analyzes satellite telemetry data to identify degradation patterns 
 * Physics-based degradation modeling for battery and thermal systems
 * Automated alert generation for operational thresholds
 
-**Sample Output**
-[]
+## Sample Output
+
+![Satellite Telemetry Analysis Dashboard](satellite_health_report.png)
+
+*90-day analysis of simulated Starlink satellite showing battery voltage degradation (critical threshold breach), fuel depletion forecast, and 108 detected anomalies with 92% confidence.*
 
 **Technologies**
 Python 3.x | Pandas | NumPy | Scikit-learn | Matplotlib
