@@ -1,8 +1,8 @@
-**Satellite Health Monitoring & Predictive Maintenance**
+## **Satellite Health Monitoring & Predictive Maintenance**
 
 Demonstration of automated satellite telemetry analysis and component failure prediction using machine learning anomaly detection.
 
-**Overview**
+**Overview:**
 This project analyzes satellite telemetry data to identify degradation patterns and predict component failures before they impact mission operations. Built using industry-standard time-series analysis and isolation forest algorithms.
 
 **Key Capabilities**
